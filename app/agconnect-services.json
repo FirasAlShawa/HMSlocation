@@ -1,0 +1,11 @@
+{
+	"client":{
+		"cp_id":"890852200000000072",
+		"product_id":"9105385871708241508",
+		"client_id":"233082017263125696",
+		"client_secret":"386909E7EEE0E48F1D3CB9312BFA7CC04C50BCA53E488ABD53B40872130F2988",
+		"app_id":"101377001",
+		"package_name":"com.huawei.hmslocation"
+	},
+	"configuration_version":"1.0"
+}
